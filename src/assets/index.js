@@ -12,8 +12,6 @@ export {
   projectOne,
   projectTwo,
   projectThree,
-  testimonialOne,
-  testimonialTwo,
-  quote,
+  
   contactImg,
 };
